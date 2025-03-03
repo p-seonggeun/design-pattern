@@ -3,3 +3,5 @@
 [디자인 패턴: 옵저버 패턴](https://blog.naver.com/1999byh/223775068028)
 <br>
 [디자인 패턴: 데코레이터 패턴](https://blog.naver.com/1999byh/223777954122)
+<br>
+[디자인 패턴: 팩토리 패턴](https://blog.naver.com/1999byh/223781917290)
