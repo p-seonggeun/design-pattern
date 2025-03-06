@@ -5,3 +5,5 @@
 [디자인 패턴: 데코레이터 패턴](https://blog.naver.com/1999byh/223777954122)
 <br>
 [디자인 패턴: 팩토리 패턴](https://blog.naver.com/1999byh/223781917290)
+<br>
+[디자인 패턴: 싱글톤 패턴](https://blog.naver.com/1999byh/223786485803)
